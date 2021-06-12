@@ -168,8 +168,6 @@ class ReservationPage extends Component {
 
   render() {
 
-    let buttonsForTable = this.prepareButtons(this.props.seatsInfo);
-
     let tempTable = (
       <table id="seatsPlan">
         <tbody>
