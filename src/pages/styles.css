@@ -1,0 +1,53 @@
+#seatsPlan {
+    margin-top: 4vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+#seatsPlan td {
+    width: 4vw;
+    height: 4vw;
+}
+#seatsPlan button {
+    width: 4vw;
+    height: 4vw;
+}
+#seatsPlan div {
+    width: 4vw;
+    height: 4vw;
+}
+#seatsPlan .greyBg {
+    background-color: grey;
+}
+#seatsPlan .orangeBg {
+    background-color: rgb(248, 219, 101);
+}
+
+.reserved {
+    background-color: grey;
+    border: 1px solid;
+    padding-top: 17px;
+    height: 3vw;
+    width: 3vw;
+}
+
+.free {
+    border: 1px solid;
+    text-align: center;
+    padding-top: 17px;
+    height: 3vw;
+    width: 3vw;
+}
+
+.choosed {
+    background-color: rgb(248, 219, 101);
+    border: 1px solid;
+    text-align: center;
+    padding-top: 17px;
+    height: 3vw;
+    width: 3vw;
+}
+
+.summaryPage {
+    padding: 3vw;
+    text-align: left;
+}
