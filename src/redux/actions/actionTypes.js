@@ -1,0 +1,1 @@
+export const SEND_FORM = "SEND FORM TO API";
